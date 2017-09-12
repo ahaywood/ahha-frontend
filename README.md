@@ -92,6 +92,13 @@ With brew installed, you can go back and finish installing Yarn:
 $ brew install yarn --ignore-dependencies
 ```
 
+
+tk
+
+```
+$sudo npm rebuild node-sass
+```
+
 ---
 
 # QuickStart
@@ -202,6 +209,9 @@ tk
 tk
 
 ### Runs Browser Sync
+
+`npm install -g browser-sync`
+
 tk
 
 ### Watches for changed files
